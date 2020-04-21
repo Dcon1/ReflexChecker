@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ReflexChecker</string>
+    <string name="instructions">this_app_tests_your_reflexes_after_you_press_the_start_button_you_are_presented_with_two_tasks_and_a_scrollable_view_that_contains_alternating_images_and_checkboxes_when_finished_the_tasks_click_the_done_button</string>
+    <string name="start">Start</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">task_2</string>
+
+    <String-array name="task1_descriptions">
+        <item>Select all drinks</item>
+        <item>Deselect all drinks</item>
+        <items>Select one drink</items>
+    </String-array>
+
+    <String-array name="task2_descriptions">
+        <item>Select all fruits</item>
+        <item>Deselect all fruits</item>
+        <item>Select one fruit</item>
+    </String-array>
+
+</resources>
