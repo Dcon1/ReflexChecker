@@ -45,6 +45,7 @@ public class GameActivity extends AppCompatActivity {
     private void addCheckboxes(int arrayID){
         addImage(R.id.game_rows);
         for(int i = 0; i <2; i++) {
+            //?????
 
         }
 

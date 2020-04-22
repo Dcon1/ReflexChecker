@@ -4,11 +4,15 @@
     <string name="start">Start</string>
     <string name="task_1">Task 1</string>
     <string name="task_2">task_2</string>
+    <string name="image_spacer">image_spacer</string>
+    <string name="checkbox1">CheckBox</string>
+    <string name="checkbox2">CheckBox</string>
+    <string name="checkbox3">CheckBox</string>
 
     <String-array name="task1_descriptions">
         <item>Select all drinks</item>
         <item>Deselect all drinks</item>
-        <items>Select one drink</items>
+        <item>Select one drink</item>
     </String-array>
 
     <String-array name="task2_descriptions">
@@ -16,5 +20,18 @@
         <item>Deselect all fruits</item>
         <item>Select one fruit</item>
     </String-array>
+
+    <String-array name="drinks">
+        <item>7up</item>
+        <item>fanta</item>
+        <item>lift</item>
+    </String-array>
+
+    <String-array name="fruits">
+        <item>lime</item>
+        <item>orange</item>
+        <item>lemon</item>
+    </String-array>
+
 
 </resources>
